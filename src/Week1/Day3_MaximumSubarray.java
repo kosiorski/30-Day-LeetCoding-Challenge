@@ -1,3 +1,5 @@
+package Week1;
+
 public class Day3_MaximumSubarray {
 
     public static void main(String[] args) {

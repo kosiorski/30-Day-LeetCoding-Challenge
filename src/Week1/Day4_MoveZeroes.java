@@ -1,3 +1,5 @@
+package Week1;
+
 public class Day4_MoveZeroes {
     public static void main(String[] args) {
 

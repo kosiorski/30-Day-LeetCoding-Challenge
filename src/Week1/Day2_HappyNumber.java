@@ -1,3 +1,5 @@
+package Week1;
+
 public class Day2_HappyNumber {
     public static void main(String[] args) {
 
