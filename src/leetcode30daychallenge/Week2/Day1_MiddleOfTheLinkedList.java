@@ -1,4 +1,4 @@
-package Week2;
+package leetcode30daychallenge.Week2;
 
 public class Day1_MiddleOfTheLinkedList {
     public static void main(String[] args) {

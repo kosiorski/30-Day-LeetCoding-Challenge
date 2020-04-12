@@ -1,4 +1,4 @@
-package Week2;
+package leetcode30daychallenge.Week2;
 
 import java.util.Collections;
 import java.util.PriorityQueue;

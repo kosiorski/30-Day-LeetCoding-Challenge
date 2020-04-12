@@ -1,4 +1,4 @@
-package Week1;
+package leetcode30daychallenge.Week1;
 
 public class Day3_MaximumSubarray {
 
