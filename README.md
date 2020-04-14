@@ -18,5 +18,4 @@
 * Day 4 : [Diameter of Binary Tree](src/leetcode30daychallenge/Week2/Day4_DiameterOfBinaryTree.java)
 * Day 5 : [Last Stone Weight](src/leetcode30daychallenge/Week2/Day5_LastStoneWeight.java)
 * Day 6 : [Contiguous Array](src/leetcode30daychallenge/Week2/Day6_ContiguousArray.java)
-
-
+* Day 7 : [Perform String Shifts](src/leetcode30daychallenge/Week2/Day7_PerformStringShifts.java)
