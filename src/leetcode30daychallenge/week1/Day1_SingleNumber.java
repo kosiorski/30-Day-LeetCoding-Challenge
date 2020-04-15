@@ -1,4 +1,4 @@
-package leetcode30daychallenge.Week1;
+package leetcode30daychallenge.week1;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package leetcode30daychallenge.Week2;
+package leetcode30daychallenge.week2;
 
 public class Day7_PerformStringShifts {
     public static void main(String[] args) {
