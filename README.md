@@ -25,3 +25,4 @@
 * Day 2 : [Valid Parenthesis String](src/leetcode30daychallenge/week3/Day2_ValidParenthesisString.java)
 * Day 3 : [Number of Islands](src/leetcode30daychallenge/week3/Day3_NumberOfIslands.java)
 * Day 4 : [Minimum Path Sum](src/leetcode30daychallenge/week3/Day4_MinimumPathSum.java)
+* Day 5 : [Search in Rotated Sorted Array](src/leetcode30daychallenge/week3/Day5_SearchInRotatedSortedArray.java)
