@@ -28,3 +28,6 @@
 * Day 5 : [Search in Rotated Sorted Array](src/leetcode30daychallenge/week3/Day5_SearchInRotatedSortedArray.java)
 * Day 6 : [Construct Binary Search Tree from Preorder Traversal](src/leetcode30daychallenge/week3/Day6_ConstructBinarySearchTreeFromPreorderTraversal.java)
 * Day 7 : [Leftmost Column with at Least a One](src/leetcode30daychallenge/week3/Day7_LeftmostColumnWithAtLeastAOne.java)
+
+####  Week4
+* Day 1 : [Subarray Sum Equals K](src/leetcode30daychallenge/week4/Day1_SubarraySumEqualsK.java)
