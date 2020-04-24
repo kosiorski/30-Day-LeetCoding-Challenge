@@ -31,3 +31,5 @@
 
 ####  Week4
 * Day 1 : [Subarray Sum Equals K](src/leetcode30daychallenge/week4/Day1_SubarraySumEqualsK.java)
+* Day 2 : [Bitwise AND of Numbers Range](src/leetcode30daychallenge/week4/Day2_BitwiseAndOfNumbersRange.java)
+* Day 3 : [LRU Cache](src/leetcode30daychallenge/week4/Day3_LRUCache.java)
